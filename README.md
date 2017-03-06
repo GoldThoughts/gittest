@@ -1,5 +1,0 @@
-# gittest
-
-#skills
-
-Ruby
