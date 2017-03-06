@@ -1,1 +1,5 @@
-JDIJIJIJISDJIJIDJ# gittest
+# gittest
+
+#skills
+
+Ruby
